@@ -1,0 +1,5 @@
+11/10/18 17:03:34 MainThread@__main__ WARNING: Program start
+11/10/18 17:03:34 MainThread@__main__ INFO: This message comes from the main module
+11/10/18 17:03:34 MainThread@lib.functions INFO: This message comes from the function module
+11/10/18 17:03:34 MainThread@lib.functions ERROR: There was an error!
+11/10/18 17:03:34 MainThread@__main__ WARNING: Program exit

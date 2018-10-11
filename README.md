@@ -1,2 +1,3 @@
 # py-good-practice
-python models for good practice
+This repo aims to supply models for python programs   
+Especially for good practice coding   
